@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>find-file</artifactId>
-    <version>0.1.4</version>
+    <version>0.1.4-SNAPSHOT</version>
     <name>find-file</name>
     <description>WebJar for find-file</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/find-file</url>
         <connection>scm:git:https://github.com/webjars/find-file.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/find-file.git</developerConnection>
-        <tag>find-file-0.1.4</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
